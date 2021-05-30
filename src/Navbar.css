@@ -17,8 +17,13 @@
     padding-right: 10px;
     border-left: 1px solid;
 }
-.navbar__link :hover{
+.navbar__right > .navbar__link :hover{
     color: white;
+    font-size:210%;
+}
+.navbar__left > .navbar__link :hover{
+    color: white;
+    font-size:110%;
 }
 .navbar__left{
     display: flex;
