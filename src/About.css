@@ -1,0 +1,29 @@
+.about__container{
+    background-color: rgba(3, 17, 97, 0.959);
+    margin: 30px 40px;
+    height: 690px;
+    width: 95%;
+    color: aliceblue;
+    text-align: center;
+    box-shadow: 5px;
+    border-radius: 30px;
+}
+
+.about__container > h1 {
+    padding-top: 20px ;
+    font-size: 350%;
+}
+
+.about__container > p {
+    width: 400px;
+    margin: auto;
+    margin-top: 5%;
+    font-size: larger;
+    border: 1px solid gray;
+    padding: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    border-radius: 5px;
+    text-align: justify;
+}
+
