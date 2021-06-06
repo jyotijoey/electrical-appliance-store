@@ -4,7 +4,10 @@ import "./Blocks.css"
 function Blocks() {
     return (
         <div className="blocks">
-            i am a block
+            <p> Title <p/>
+             <p> Product Description <p/>
+        <img src="" />
+        <p> Price <p/>
         </div>
     )
 }
